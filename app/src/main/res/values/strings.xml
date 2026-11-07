@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">瞬移锁 FlowShift</string>
+    <string name="accessibility_service_desc">用于检测受限短视频应用的时长与下滑手势，并在达到设定时间后顺滑跳转至指定学习应用。本服务不读取任何屏幕隐私文字内容（canRetrieveWindowContent=false）。</string>
+</resources>
